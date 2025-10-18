@@ -1,0 +1,11 @@
+{
+  "email": "22f2000914@ds.study.iitm.ac.in",
+  "secret": "your-secret",
+  "task": "markdown-to-html-abc12",
+  "round": 2,
+  "nonce": "n-002",
+  "brief": "Add tabs #markdown-tabs switching between rendered HTML in #markdown-output and original Markdown in #markdown-source with live word count and source label.",
+  "checks": [],
+  "evaluation_url": "https://httpbin.org/status/200",
+  "attachments": []
+}
